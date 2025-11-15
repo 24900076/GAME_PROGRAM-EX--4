@@ -23,7 +23,7 @@ manually attach in Event Graph:
 Rifle->AttachToComponent(Mesh, FAttachmentTransformRules::SnapToTargetNotIncludingScale, "hand_rSocket");
 ```
 
-### 3. Add Aiming Mechanism
+### 3. Add Aiming Mechanism 
 
 Create a Boolean variable called IsAiming.
 Set up Input in Project Settings:
